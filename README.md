@@ -37,3 +37,9 @@
 ---
 
 ## 💻 Tech Stack & Tooling
+
+* **Computer Vision & Deep Learning:** PyTorch, Ultralytics YOLO, 3D CNNs, OpenCV, CUDA
+* **Languages:** Python, C99, TypeScript, JavaScript, MIPS Assembly, GDScript
+* **IoT & Embedded Systems:** Arduino, Ethernet Shield, TCP/IP, 3D Prototyping (.stl / .3mf)
+* **Backend & DevOps:** Flask, Docker, Linux (SSH), REST APIs, YAML
+* **Tools & Engines:** Godot Engine, Git, Postman
