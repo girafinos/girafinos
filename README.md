@@ -1,4 +1,4 @@
-# Hi there, I'm [Seu Nome] 👋
+# Hi there, I'm Felipe 👋
 ### Computer Science Undergrad & AI/IoT Researcher at UFSJ (Brazil) 🇧🇷
 
 > *Pesquisador focado em Visão Computacional, Sistemas Embarcados e Engenharia de Software.*  
